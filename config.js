@@ -69,7 +69,7 @@ const _config = {
     },
 
     defaultimage: "https://i.imgur.com/T9OdSQq.png", // If no evidence is provided
-    owners: ['865757954950955008'], // These are role IDS that can add staff members to the staff DB
+    owners: ['962531534974365716'], // These are role IDS that can add staff members to the staff DB
 
     loggingguild: "865663211461017620", // This is a server ID
     reportlogs: "865664707561914388", // This is a channel ID that reports will be sent to
